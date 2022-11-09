@@ -3,6 +3,7 @@
 A ML project for Anime Recommendation
 
 In this project we go through all the process of Data Cleaning and Exploration to create multiple Anime Databases and see how the results vary one from the other. 
+The dataset comes from Kaggle and it was taken from MyAnimeList, the popular anime web on which many "weebs" or anime fans rely on.
 
 ### The model
 I create a ML model to Recommend Animes based on Content using Cosine Similarity Method. 
